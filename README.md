@@ -67,7 +67,7 @@ http://127.0.0.1:5000
 ---
 
 ### 🌟 **Contributions**
-Feel free to **fork** the repository, raise issues, or submit pull requests. Contributions are always welcome! 🎯
+Feel free to **fork** the repository, raise issues, or submit pull requests. Contributions are always welcome!! 🎯
 
 ---
 
