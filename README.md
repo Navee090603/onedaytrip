@@ -53,10 +53,8 @@ http://127.0.0.1:5000
 
 ---
 
-### 🌟 **Example Recommendations**
-- **Chennai (Morning, Friends):** Marina Beach 🌊 – Enjoy the sunrise and breakfast at a beachside cafe.  
-- **Bengaluru (Evening, Partner):** UB City Mall 🍽️ – Fine dining and shopping experience.  
-- **Mumbai (Afternoon, Family):** Elephanta Caves ⛰️ – Explore ancient rock-cut temples.  
+### 🛠️ **App Screenshots**
+![Front Page]
 
 ---
 
