@@ -56,6 +56,8 @@ http://127.0.0.1:5000
 ### 🛠️ **App Screenshots**
 ![Front Page][Interface.jpeg](https://github.com/Navee090603/onedaytrip/blob/main/Interface.jpeg)
 
+![City Selection]https://github.com/Navee090603/onedaytrip/blob/main/CitySelection.jpeg
+
 ---
 
 ### 🌟 **Contributions**
