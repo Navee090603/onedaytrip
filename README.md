@@ -54,7 +54,7 @@ http://127.0.0.1:5000
 ---
 
 ### 🛠️ **App Screenshots**
-![Front Page]
+![Front Page]Interface.jpeg
 
 ---
 
