@@ -58,6 +58,12 @@ http://127.0.0.1:5000
 
 ![City Selection](https://github.com/Navee090603/onedaytrip/blob/main/CitySelection.jpeg)
 
+![preferrence](https://github.com/Navee090603/onedaytrip/blob/main/Preferrence.jpeg)
+
+![Session](https://github.com/Navee090603/onedaytrip/blob/main/Session.jpeg)
+
+![ResultPage](https://github.com/Navee090603/onedaytrip/blob/main/ResultPage.jpeg)
+
 ---
 
 ### 🌟 **Contributions**
